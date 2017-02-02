@@ -9,7 +9,7 @@
  	
 	<import resource="classpath:servlet-context.xml" />
 	<import resource="classpath:spring-datasource.xml" />
-<!-- 	<import resource="classpath:spring-security.xml" /> -->
+	<import resource="classpath:spring-security.xml" />
 	<import resource="classpath:spring-aop-context.xml" />
 	
 </beans>
